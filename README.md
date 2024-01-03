@@ -7,7 +7,7 @@
   - *Source file is in Folder:* **Asian Countries Filter**
    
 - b)Get all the countries with a population of less than 2 lakhs using Filter function.
- - *Source file is in Folder:* **Population Filter**
+   - *Source file is in Folder:* **Population Filter**
   
 - c) Print the following details name, capital, flag, using forEach function.
   - *Source file is in Folder:* **Details forEach**
